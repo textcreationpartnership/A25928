@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Articles of Galway exactly printed from letters-patents wherein they are ratified and exemplified by Their Majesties under the Great Seal of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25928</idno>
+            <idno type="STC">Wing A3841</idno>
+            <idno type="STC">ESTC R29122</idno>
+            <idno type="EEBO-CITATION">10826484</idno>
+            <idno type="OCLC">ocm 10826484</idno>
+            <idno type="VID">46039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1414:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Articles of Galway exactly printed from letters-patents wherein they are ratified and exemplified by Their Majesties under the Great Seal of England.</title>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook, assignee of Benj. Tooke,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authority."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46039:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>THE ARTICLES OF GALWAY Exactly Printed from the LETTERS-PATENTS: WHEREIN They are Ratified and Exemplified by Their Majeſties under the Great Seal of <hi>ENGLAND.</hi>
+            </p>
+            <figure>
+               <head>
+                  <figure>
+                     <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                  </figure> RR</head>
+               <q>JE MEINTIENDRAY</q>
+               <q>HONI SOIT QUI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook,</hi> Aſſignee of <hi>Benj. Tooke,</hi> Printer to Their Majeſties on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46039:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb n="1" facs="tcp:46039:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>The ARTICLES OF GALWAY.</head>
+            <opener>
+               <signed>
+                  <hi>G<g ref="char:V">Ʋ</g>ilielmus &amp; Maria Dei Gratia</hi> Angliae, Scotiae, Franciae &amp; Hiberniae, Rex &amp; Regina, Fidei Defenſores, <hi>&amp;c.</hi>
+               </signed> 
+               <salute>Omni<g ref="char:EOLhyphen"/>bus ad quos Praeſentes literae noſtrae pervenerint ſalutem:</salute>
+            </opener>
+            <p>Inſpeximus Irrotulamentum quaerun<g ref="char:EOLhyphen"/>dum Literarum patentium de Confirmatione ge<g ref="char:EOLhyphen"/>renda &amp; apud <hi>Weſtmonaſterium</hi> decimo Septimo die <hi>Februarii,</hi> ultimo Praeterito in Curia Cancellaria noſtra Irrotulata ac ibidem de Recordo remanente in haec verba.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles_of_Galway">
+                        <opener>
+                           <signed>WIlliam and Mary by the Grace of God, <hi>&amp;c.</hi>
+                           </signed>
+                           <salute>To all to whom theſe Pre<g ref="char:EOLhyphen"/>ſents ſhall come Greeting:</salute>
+                        </opener>
+                        <p>Whereas cer<g ref="char:EOLhyphen"/>tain Articles bearing date the One and Twentieth day of <hi>July</hi> laſt paſt, were made and agreed upon by Our Truſty and Well-Beloved, <hi>Robert</hi> Baron <hi>de Ginckle,</hi> Lieutenant-General and Commander in
+<pb n="2" facs="tcp:46039:3"/>
+                           <!-- PDF PAGE 52 -->Chief of Our Forces in Our Kingdom of <hi>Ireland,</hi> and the Conſtable and Govern<g ref="char:EOLhyphen"/>our of Our Town of <hi>Galway</hi> in Our ſaid Kingdom, whereby Our ſaid General pro<g ref="char:EOLhyphen"/>miſes that We ſhould Ratifie theſe Capi<g ref="char:EOLhyphen"/>tulations within the ſpace of three Months from the date thereof or ſooner; The Te<g ref="char:EOLhyphen"/>nor of which ſaid Articles is as followes, <hi>vizt.</hi>
+                        </p>
+                        <q>
+                           <floatingText xml:lang="eng">
+                              <body>
+                                 <div type="list_of_articles">
+                                    <pb n="3" facs="tcp:46039:3"/>
+                                    <!-- PDF PAGE 52 -->
+                                    <list>
+                                       <head>Articles Granted to the Town and Gariſon of GALWAY by Lieu<g ref="char:EOLhyphen"/>tenant-General GINCKLE Com<g ref="char:EOLhyphen"/>mander in Chief of Their Majeſties Forces, the One and Twentieth day of July, One Thouſand Six Hun<g ref="char:EOLhyphen"/>dred Ninety One.</head>
+                                       <item>1. THat the Town and Fort of <hi>Galway</hi> ſhall be given up to his Excel<g ref="char:EOLhyphen"/>lency or ſuch Officer as he ſhall appoint on <hi>Sunday</hi> Morning next by 6 of the Clock, to<g ref="char:EOLhyphen"/>gether with all the Stores of Amunition and Proviſion and Mazagins of all ſorts without embezlement, and that immedi<g ref="char:EOLhyphen"/>ately upon the ſigning theſe Articles ſuch Perſon as the General ſhall appoint have leave to inſpect them.</item>
+                                       <item>2. That all Deſerters that are in the Town ſhall be given up.</item>
+                                       <item>3. That immediately after ſigning theſe Articles all the out-works of the Town ſhall be delivered to ſuch Officers as the General ſhall appoin to take poſſeſſion of
+<pb n="4" facs="tcp:46039:4"/>
+                                          <!-- PDF PAGE 53 -->the ſame; and that the Governour ſhal withdraw all the Cannon from the Wall.</item>
+                                       <item>4. That 'till the Town is ſurrendred as aforeſaid the General may order ſuch works and Batteries to be made as he ſhall judge convenient, provided he doth not bring them within 3 yards of the Wall: nor the Guns within 10 yards of the Batteries; and that in the Town they ſhall not proceed to work to fortify the ſame any further.</item>
+                                       <item>5. In conſideration of the ſaid Renditi<g ref="char:EOLhyphen"/>on his Excellency gives leave to Lieutenant General <hi>Duſſon,</hi> Monſieur <hi>Metſet</hi> Commiſſa<g ref="char:EOLhyphen"/>ry of War, and the reſt of the <hi>French</hi> Of<g ref="char:EOLhyphen"/>ficers and Soldiers and others of that Nati<g ref="char:EOLhyphen"/>on now in <hi>Galway</hi> to go to <hi>Lymerick</hi> with their Arms, Bagg and Baggage, whether they ſhall be ſafely conducted the neareſt way; and in caſe that the ſaid Lieutenant General <hi>Duſſon</hi> ſhall want Horſes to carry his Equipage thither the General will fur<g ref="char:EOLhyphen"/>niſh him with them.</item>
+                                       <item>6. That ſuch of the Garriſon as deſire it may remain in Town or go to their reſpe<g ref="char:EOLhyphen"/>ctive Homes and enjoy the benefit of this Capitulation, and the reſt ſhall march to <hi>Lymerick</hi> with their Arms, 6 pieces of Can<g ref="char:EOLhyphen"/>non, Drums beating, Colours Flying, Match lighted, Bullet in Mouth; and as
+<pb n="5" facs="tcp:46039:4"/>
+                                          <!-- PDF PAGE 53 -->much Amunition and Proviſions, as each Officer and Soldier can carry with him; and that they ſhall be furniſhed with Draught, Horſes and Harneſs for the Guns if they want them; which ſaid Guns they ſhall have Liberty to chooſe: Provided they take none above 12 Pounders.</item>
+                                       <item>7. That the wounded and ſick Officers may ſtay in Town 'till they are cured, and that then they ſhall be ſent to <hi>Lymerick</hi> with a ſafe conduct, and in the mean time ſhall be provided in Town with neceſſa<g ref="char:EOLhyphen"/>ries for their Cure and ſubſiſtance.</item>
+                                       <item>8. That the Governour, Conſtable, May<g ref="char:EOLhyphen"/>or, Sheriffs, Aldermen, Burgeſſes, Freemen and Natives of <hi>Galway,</hi> and the Inhabitants thereof, or the Reputed Ones by any for<g ref="char:EOLhyphen"/>mer Charter, or reputed Charter of King <hi>James the ſecond</hi> granted before his Abdica<g ref="char:EOLhyphen"/>tion, or any of his Anceſtors shall have a general pardon of all Attainders, Outlaw<g ref="char:EOLhyphen"/>ries, Treaſons, Felonies, Premunires, and all manner of Offences committed ſince the beginning of the Late <hi>King James</hi>'s Reign to the date hereof.</item>
+                                       <item>9. That all and every of the Garriſon Officers, Governours, Conſtable, Mayor, Sheriffs, Aldermen, Burgeſſes, Freemen and Inhabitants aforeſaid, ſhall enjoy and
+<pb n="6" facs="tcp:46039:5"/>
+                                          <!-- PDF PAGE 54 -->poſeſs their Eſtates real and perſonal, and all other Liberties and Imunities, as they held, or ought to have held, under the Acts of Settlement and Explanation; or otherwiſe by the Laws of this Kingdom freely diſcharged from all Crown-Rents, Quit-Rents, and all other Charges to the date hereof.</item>
+                                       <item>10. That the Names of the Roman-Ca<g ref="char:EOLhyphen"/>tholick Clergy of the Town of <hi>Galway</hi> be given to the General on or before <hi>Tueſday</hi> next, and that they as well as the Layety of the ſaid Town; ſhall have the private exerciſe of their Religion; and that the ſaid Clergy ſhall be protected in their Per<g ref="char:EOLhyphen"/>ſons and Goods.</item>
+                                       <item>11. That the Gentlemen of Eſtates now belonging to the Town and Garriſon of <hi>Gal<g ref="char:EOLhyphen"/>way</hi> ſhall have Liberty to keep a Gun in their Houſes for the defence of the ſame, and wear a Sword and caſe of Piſtols if they think fit.</item>
+                                       <item>12. That all the Roman-Catholick Lawy<g ref="char:EOLhyphen"/>ers of the ſaid Town, ſhall have the free Liberty of Practice; that they had in King <hi>Charles</hi> the Second's Time.</item>
+                                       <item>13. That ſuch of the Officers, belonging to any of the Regiments, that are now in <hi>Galway</hi> and not preſent at the Signing theſe
+<pb n="7" facs="tcp:46039:5"/>
+                                          <!-- PDF PAGE 54 -->Capitulations; ſhall have the benefit of the ſame: Provided they ſhall ſubmit with<g ref="char:EOLhyphen"/>in three weeks to the Governour of <hi>Galway</hi> for the time being; who ſhall be appoint<g ref="char:EOLhyphen"/>ed to the General: or that they ſhall have a ſafe conduct to go to <hi>Lymerick</hi> in the man<g ref="char:EOLhyphen"/>ner as the ſaid Garriſon hath.</item>
+                                       <item>14. That ſuch other Perſons now in the Town as deſire to go out with the Garriſon, or ſuch part thereof as goes to <hi>Limerick</hi> ſhall have liberty to do ſo, and carry their Fa<g ref="char:EOLhyphen"/>milies and Goods along with them, and that ſuch Officer's Wives belonging to the ſaid Garriſon as are there or in any other part of <hi>Connaught</hi> may at the ſame time de<g ref="char:EOLhyphen"/>part with their Goods, or at any other con<g ref="char:EOLhyphen"/>venient time afterwards: particularly Co<g ref="char:EOLhyphen"/>lonel <hi>Edmond Ryley</hi>'s Wife Mother and Fa<g ref="char:EOLhyphen"/>mily, the Lady <hi>Evagh</hi> and her Daughter and Lieutenant Colonel <hi>Luke Ryley,</hi> his bro<g ref="char:EOLhyphen"/>ther <hi>Philip Ryley</hi> their Wives and Families.</item>
+                                       <item>15. That immediately all Acts of Hoſti<g ref="char:EOLhyphen"/>lity ſhall ceaſe on both ſides, and that if it ſhall happen that any provokeing Lan<g ref="char:EOLhyphen"/>guage ſhall paſs between the Soldiers, they ſhall be Puniſhed by their reſpective Offi<g ref="char:EOLhyphen"/>cers for the ſame, and not permitted to Fire one upon another.</item>
+                                       <item>16. That for the due performance of
+<pb n="8" facs="tcp:46039:6"/>
+                                          <!-- PDF PAGE 55 -->theſe Articles the Governour ſhall imme<g ref="char:EOLhyphen"/>diately give the perſons undernamed for Hoſtages, Earl of <hi>Clanricard,</hi> Lord of <hi>Inni<g ref="char:EOLhyphen"/>skillin,</hi> Colonel <hi>Dominick Browne,</hi> Lieutenant Colonel <hi>Bodkin,</hi> Major <hi>Dillon.</hi>
+                                       </item>
+                                    </list>
+                                    <argument>
+                                       <p>Laſtly the General promiſes to have theſe Capitulations Ratified by their Ma<g ref="char:EOLhyphen"/>jeſties within the Space of three Months from the date hereof or ſooner if poſſible.</p>
+                                       <p>Signed and Sealed the day above menti<g ref="char:EOLhyphen"/>oned by the Commander in Cheif of Their Majeſties Forces and the Conſtable and Go<g ref="char:EOLhyphen"/>vernour of the ſaid Town interchangeably. Barron <hi>de Ginckell.</hi>
+                                       </p>
+                                    </argument>
+                                 </div>
+                              </body>
+                           </floatingText>
+                        </q>
+                        <p>And whereas the ſaid Town of <hi>Galway</hi> hath been ſince in purſuance of the ſaid Articles ſurrendered unto us! Know ye that we having Conſidered of the ſaid Ar<g ref="char:EOLhyphen"/>ticles are graciouſly pleaſed hereby to declare, that We do, as far as in us lyes, Ratifie and Confirm the ſame, and every Clauſe, Matter and Thing therein contain<g ref="char:EOLhyphen"/>ed. And as to ſuch parts thereof for which an Act of Parliament ſhall be found to be neceſſary We ſhall recommend the ſame to be made good by Parliament and ſhall give Our Royal Aſſent to any Bill or Bills that ſhall be Paſsed by our two Houſes of Parliament for that purpoſe.</p>
+                        <p>
+                           <pb n="9" facs="tcp:46039:6"/>
+                           <!-- PDF PAGE 55 -->
+Provided always, and our Will and Plea<g ref="char:EOLhyphen"/>ſure is that theſe our Letters Patents ſhall be Enrolled in our Court of Chancery, in our ſaid Kingdome of <hi>Ireland</hi> within one Year next enſueing. In Witneſs <hi>&amp;c.</hi>
+                        </p>
+                        <closer>
+                           <dateline>Wit<g ref="char:EOLhyphen"/>neſs our Self at <hi>Weſtminſter</hi> 
+                              <date>the Seventeenth Day of <hi>February.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>ANno Regni Regis &amp; Reginae <hi>Guilielmi</hi> &amp; <hi>Mariae</hi>Quarto, per breve deprivato Si<g ref="char:EOLhyphen"/>gillo. Nos autem tenorem premiſsorum predict. at requiſitionem attornati generalis Domini Regis &amp; Domine Regine pro Regno <hi>Hiberniae</hi> duximus Exemplificandum per preſentes in cujus rei teſti<g ref="char:EOLhyphen"/>monium has Literas noſtras fieri facimus Patentes</p>
+            <closer>
+               <dateline>Teſtibus Nobis ipſis apud <hi>Weſtmonaſterium</hi> 
+                  <date>quinto Die <hi>Aprilis,</hi> Anno Regni eorum Quarto.</date>
+               </dateline>
+               <signed>Bridges</signed>
+            </closer>
+            <postscript>
+               <p>Examinant. per nos</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>S. Keck</item>
+                        <item>Lacon Win Childe</item>
+                     </list>
+                  </signed>
+                  <dateline>In Cancel. Magiſtros</dateline>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
